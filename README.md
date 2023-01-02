@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @nischkar. Currently living in Asia
-- 👀 I’m interested in Python and Cloud
-- 🌱 I’m currently learning C#, Typescript, Python AWS
+- 👀 Always on the lookout for trending technologies
+- 🌱 Python | JAVA | C#
+- 🌱 AWS | AZURE
 - 💞️ I’m looking to collaborate on Anything really.
 - 📫 How to reach me just email me mail@nischkar.com
 
