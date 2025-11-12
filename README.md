@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @nischkar. Currently living in Asia
-- 👀 Always on the lookout for trending technologies
-- 🌱 Python | JAVA | C#
-- 🌱 AWS | AZURE
+- 👋 Hi, I’m @nischkar. Asia based. Remote Work
+- 👀 Wasting my time on Youtube
+- 🌱 C# | Java | Python
+- 🌱 AWS | AZURE | On-Prem
 - 💞️ I’m looking to collaborate on Anything really.
 - 📫 How to reach me just email me mail@nischkar.com
 
